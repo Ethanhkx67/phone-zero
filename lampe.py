@@ -1,5 +1,4 @@
-cat > /mnt/user-data/outputs/hue_controller.py << 'ENDOFFILE'
-#!/usr/bin/env python3
+
 """
 ╔══════════════════════════════════════════════════════╗
 ║          💡  Philips Hue Controller  💡              ║
