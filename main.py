@@ -4,7 +4,7 @@
 import subprocess, socket, os, sys
 
 VERSION = "1.0"
-REPO_URL = "https://raw.githubusercontent.com/TON_USER/TON_REPO/main/scan.py"
+REPO_URL = "https://github.com/Ethanhkx67/phone-zero"
 
 def check_update():
     """Vérifie si une nouvelle version existe"""
